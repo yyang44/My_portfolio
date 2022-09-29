@@ -38,12 +38,12 @@ categorized the listings with informative business understanding to foresee futu
 
 [How does land fire affect agriculture in California? 
 How are they related to each other spatially?
-Where are the most vulnerable agricultural land in California? ](./fire_and_agricultural_ca.pdf)
+Where are the most vulnerable agricultural land in California? ](https://github.com/yyang44/arcgis_pro/blob/main/fire_and_agricultural_ca.pdf)
 
-[Spatial Patterns for Toxic Release Inventory and Kernel Density of Onsite Release for California](./toxic_onsite_ca.pdf)
+[Spatial Patterns for Toxic Release Inventory and Kernel Density of Onsite Release for California](https://github.com/yyang44/arcgis_pro/blob/main/toxic_onsite_ca.pdf)
 
-[Health Insurance Comparition for Great Boston Area](./HEALTH_INSURANCE.pdf)
+[Health Insurance Comparition for Great Boston Area](https://github.com/yyang44/arcgis_pro/blob/main/HEALTH_INSURANCE.pdf)
 
-[Windfram Suitablity Analysis for Beijing](./windfram_suitability_beijing.pdf)
+[Windfram Suitablity Analysis for Beijing](https://github.com/yyang44/arcgis_pro/blob/main/windfram_suitability_beijing.pdf)
 
-[Framland Suitability Analysis for Groton](./Groton_framland.pdf)
+[Framland Suitability Analysis for Groton](https://github.com/yyang44/arcgis_pro/blob/main/Groton_framland.pdf)
