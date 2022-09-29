@@ -21,7 +21,7 @@ ness level perception with data-informed creative consultation.
 categorized the listings with informative business understanding to foresee future market and challenges .
 - Related Fields: R, GitHub, Machine learning, ETL, POP, OOP, LATEX
 
-## Dashborads 
+## Visualization Dashborads 
 
 [US Real Estate Market with Zillow Housing, 2020.12 - 2021.1](https://public.tableau.com/app/profile/yijun5426/viz/USRealEstateMarketwithZillowHousing/USRealEstateMarket) Be sure to move your mouse a lot for this one!
 
