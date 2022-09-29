@@ -1,6 +1,6 @@
 # Yijun's Portofolio
 
-### Data Visualization and Analysis.
+## Data Visualization and Analysis.
 
 [Auto Insurance Customer Evaluation Analysis](https://github.com/yyang44/entering_auto_insurance)
 - Designed a quantitative model evaluating customers’ potential claim risk to help clients address dynamic strategic business goals efficiently and deeply with full modeling cycle.
@@ -21,7 +21,7 @@ ness level perception with data-informed creative consultation.
 categorized the listings with informative business understanding to foresee future market and challenges .
 - Related Fields: R, GitHub, Machine learning, ETL, POP, OOP, LATEX
 
-### Dashborads 
+## Dashborads 
 
 [US Real Estate Market with Zillow Housing, 2020.12 - 2021.1](https://public.tableau.com/app/profile/yijun5426/viz/USRealEstateMarketwithZillowHousing/USRealEstateMarket) Be sure to move your mouse a lot for this one!
 
@@ -34,7 +34,7 @@ categorized the listings with informative business understanding to foresee futu
 [US College Loan by Schools](https://public.tableau.com/app/profile/yijun5426/viz/USCollegeLoanbySchools/School)
 [US College Loan by States](https://public.tableau.com/app/profile/yijun5426/viz/USCollegeLoanbyStates/State)
 
-### Spatial Analysis
+## Spatial Analysis
 
 [How does land fire affect agriculture in California? 
 How are they related to each other spatially?
