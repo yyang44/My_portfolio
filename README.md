@@ -1,4 +1,4 @@
-# Yijun's Portofolio
+# Yijun's Portfolio
 Aim to be a good story teller.
 
 ## Data Visualization and Analysis.
